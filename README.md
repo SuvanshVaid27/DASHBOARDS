@@ -23,3 +23,5 @@ R Shiny combines the computational power of R with the interactivity of the mode
   <img src="https://github.com/SuvanshVaid27/R-shiny-Dashboards/blob/main/image/nate-isaac-V1kk3KTBiEk-unsplash.jpg" width="600" height = "400" title="hover text">
   </a>
 </p>
+
+  - A dashboard created in R-shiny dashboard to show the road crashes in the state of Victoria since the past 5 years. This is a narrative visualization aimed at enlightening the users with the past few year trends of the road crashes in Victoria, their effect on different road populations and investigating factors (such as road conditions) that may have had an effect on the crashes. 
