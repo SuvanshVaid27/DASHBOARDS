@@ -16,10 +16,10 @@ R Shiny combines the computational power of R with the interactivity of the mode
 
 <hr>
 
-## [Road Crashes Victoria](https://github.com/SuvanshVaid27/Road-crashes-victoria-dashboard)
+## [Road Crashes Victoria](https://github.com/SuvanshVaid27/DASHBOARDS/tree/main/Road-crashes-victoria-dashboard)
 
 <p>
-  <a href = "https://github.com/SuvanshVaid27/Road-crashes-victoria-dashboard">
+  <a href = "https://github.com/SuvanshVaid27/DASHBOARDS/tree/main/Road-crashes-victoria-dashboard">
   <img src="https://github.com/SuvanshVaid27/R-shiny-Dashboards/blob/main/image/nate-isaac-V1kk3KTBiEk-unsplash.jpg" width="600" height = "400" title="hover text">
   </a>
 </p>
