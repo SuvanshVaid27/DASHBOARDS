@@ -2,7 +2,7 @@
 
 R Shiny combines the computational power of R with the interactivity of the modern web. I have worked on two projects so far in R shiny, as shown below. 
 
-## [Covid-19 Australia](https://github.com/SuvanshVaid27/covid-19-dashboard)
+## [Covid-19 Australia](https://github.com/SuvanshVaid27/DASHBOARDS/tree/main/covid-19-dashboard)
 
 
 <p>
